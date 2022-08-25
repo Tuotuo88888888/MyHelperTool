@@ -1,0 +1,13 @@
+F:\我的学习资料\C#\20220822复制粘贴plus\复制粘贴plus\MyHelperTool\WinHelperLibrary\bin\Debug\WinHelperLibrary.dll
+F:\我的学习资料\C#\20220822复制粘贴plus\复制粘贴plus\MyHelperTool\WinHelperLibrary\bin\Debug\WinHelperLibrary.pdb
+F:\我的学习资料\C#\20220822复制粘贴plus\复制粘贴plus\MyHelperTool\WinHelperLibrary\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+F:\我的学习资料\C#\20220822复制粘贴plus\复制粘贴plus\MyHelperTool\WinHelperLibrary\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\我的学习资料\C#\20220822复制粘贴plus\复制粘贴plus\MyHelperTool\WinHelperLibrary\bin\Debug\Newtonsoft.Json.dll
+F:\我的学习资料\C#\20220822复制粘贴plus\复制粘贴plus\MyHelperTool\WinHelperLibrary\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+F:\我的学习资料\C#\20220822复制粘贴plus\复制粘贴plus\MyHelperTool\WinHelperLibrary\bin\Debug\Microsoft.IdentityModel.Logging.xml
+F:\我的学习资料\C#\20220822复制粘贴plus\复制粘贴plus\MyHelperTool\WinHelperLibrary\bin\Debug\Newtonsoft.Json.xml
+F:\我的学习资料\C#\20220822复制粘贴plus\复制粘贴plus\MyHelperTool\WinHelperLibrary\obj\Debug\WinHelperLibrary.csproj.AssemblyReference.cache
+F:\我的学习资料\C#\20220822复制粘贴plus\复制粘贴plus\MyHelperTool\WinHelperLibrary\obj\Debug\WinHelperLibrary.csproj.CoreCompileInputs.cache
+F:\我的学习资料\C#\20220822复制粘贴plus\复制粘贴plus\MyHelperTool\WinHelperLibrary\obj\Debug\WinHelperLibrary.csproj.CopyComplete
+F:\我的学习资料\C#\20220822复制粘贴plus\复制粘贴plus\MyHelperTool\WinHelperLibrary\obj\Debug\WinHelperLibrary.dll
+F:\我的学习资料\C#\20220822复制粘贴plus\复制粘贴plus\MyHelperTool\WinHelperLibrary\obj\Debug\WinHelperLibrary.pdb

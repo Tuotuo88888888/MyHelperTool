@@ -1,6 +1,6 @@
 ﻿namespace MyApp
 {
-    partial class Form1
+    partial class ClipboardReplacementItem
     {
         /// <summary>
         /// 必需的设计器变量。
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ClipboardReplacementItem));
             this.shearWall = new System.Windows.Forms.TextBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.oldstr = new System.Windows.Forms.TextBox();
@@ -162,7 +162,7 @@
             // 
             this.notifyIcon1.ContextMenuStrip = this.contextMenuStrip1;
             this.notifyIcon1.Icon = ((System.Drawing.Icon)(resources.GetObject("notifyIcon1.Icon")));
-            this.notifyIcon1.Text = "庹少的剪贴板操作";
+            this.notifyIcon1.Text = "TuoTools";
             this.notifyIcon1.Visible = true;
             // 
             // contextMenuStrip1
@@ -230,7 +230,7 @@
             this.label5.TabIndex = 17;
             this.label5.Text = "语速";
             // 
-            // Form1
+            // ClipboardReplacementItem
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -252,7 +252,7 @@
             this.Controls.Add(this.oldstr);
             this.Controls.Add(this.groupBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "Form1";
+            this.Name = "ClipboardReplacementItem";
             this.Text = "Tools";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.groupBox1.ResumeLayout(false);

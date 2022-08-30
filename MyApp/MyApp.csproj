@@ -75,16 +75,32 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="BasisForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="BasisForm.Designer.cs">
+      <DependentUpon>BasisForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClipboardReplacementItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClipboardReplacementItem.Designer.cs">
+      <DependentUpon>ClipboardReplacementItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormQueue.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="ClipboardReplacementItem.resx">
+      <DependentUpon>ClipboardReplacementItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -138,6 +154,9 @@
       <Project>{d71ae1e2-b338-4a5c-97a6-bd8f822ce93e}</Project>
       <Name>WinHelperLibrary</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\Tuo.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

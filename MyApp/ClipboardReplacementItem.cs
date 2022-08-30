@@ -21,7 +21,7 @@ using WinHelperLibrary.KeyboardHelper;
 
 namespace MyApp
 {
-    public partial class Form1 : Form
+    public partial class ClipboardReplacementItem : Form
     {
         private KeyboardHook k_hook;
         private Dictionary<int, List<Keys>> keyhookHeaderitem = new Dictionary<int, List<Keys>>()
@@ -33,7 +33,7 @@ namespace MyApp
         private Keys keyhookbody = Keys.Q;
         private List<Keys> keyhookHeaderlist = null;
 
-        public Form1()
+        public ClipboardReplacementItem()
         {
             InitializeComponent();
             CheckForIllegalCrossThreadCalls = false;
